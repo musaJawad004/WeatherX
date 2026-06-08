@@ -1,0 +1,32 @@
+name: weatherx
+description: "A weather app for myself"
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+  geocoding: ^4.0.0
+  geolocator: ^14.0.2
+  http: ^1.6.0
+  hugeicons: ^1.1.7
+  lottie: ^3.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+
+  fonts:
+    - family: ShareTech
+      fonts:
+        - asset: assets/fonts/ShareTech-Regular.ttf
