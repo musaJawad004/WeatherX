@@ -53,10 +53,7 @@ Location permission is requested at first launch — required to resolve your cu
 
 ## Screenshots
 
-**Home**
-
-![Home](./screenshots/home.png)
-
-**Search**
-
-![Search](./screenshots/search.png)
+<p align="center">
+  <img src="screenshots/home.png" width="220" alt="Home" />
+  <img src="screenshots/search.png" width="220" alt="Search" />
+</p>
